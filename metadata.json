@@ -1,0 +1,5 @@
+{
+  "name": "ToyBox AI",
+  "description": "Generate hyper-realistic toy packaging mockups for your cars using Gemini AI.",
+  "requestFramePermissions": []
+}
